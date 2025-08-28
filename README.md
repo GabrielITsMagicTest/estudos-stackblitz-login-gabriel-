@@ -1,3 +1,3 @@
 # estudos-stackblitz-login-gabriel-
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/GabrielITsMagicTest/estudos-stackblitz-login-gabriel-)
+trocar entre duas tela login e registre. vou ver se deixo mais completo
